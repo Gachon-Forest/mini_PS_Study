@@ -1,2 +1,2 @@
 # mini_PS_Study
-#백준 문제 풀이 스터디 with solved.ac
+백준 문제 풀이 with solved.ac
