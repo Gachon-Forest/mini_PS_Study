@@ -1,3 +1,9 @@
+''' Date: 2024.07.08
+No: 4153
+Tier: 브론즈 3
+Name: 직각삼각형
+Language: 파이썬 '''
+
 while True:
     re=list(map(int, input().split())) #세 변의 값을 입력 받을 리스트를 생성
     if re[0] ==0 and re[1]==0 and re[2]==0: #세 변의 값이 전부 0이면 활동을 끝냄

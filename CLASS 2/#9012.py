@@ -1,3 +1,9 @@
+''' Date: 2024.07.08
+No: 9012
+Tier: 실버 4
+Name: 괄호
+Language: 파이썬 '''
+
 a= int(input())
 
 for i in range(a):
