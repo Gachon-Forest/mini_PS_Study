@@ -1,3 +1,9 @@
+''' Date: 2024.07.12
+No: 1546
+Tier: 브론즈 1
+Name: 평균
+Language: 파이썬 '''
+
 n=int(input()) #과목 개수 
 test = list(map(int, input().split())) #테스트 점수 
 max=max(test) #최고 점수 
